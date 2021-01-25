@@ -56,6 +56,9 @@ jobs:
 
       - name: Copy changed files to the target directory
         run: cp -r from-repo/* to-repo/$TO_REPO_TARGET_FOLDER/
+      
+      - name: Print git info
+        run: echo $(git config --list)
 
       - name: Push ${{ env.TO_REPO }}
         run: |
