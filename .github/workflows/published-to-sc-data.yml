@@ -16,14 +16,13 @@ jobs:
       TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       PYTHON_VERSION: 3.7.5
-      TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         
     steps:
       - name: Checkout ${{ env.FROM_REPO }} repo
         uses: actions/checkout@v2
         with:
           repository: ${{ env.FROM_REPO }}
-          token: ${{ env.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ env.FROM_REPO_BRANCH }}
           path: from-repo
 
