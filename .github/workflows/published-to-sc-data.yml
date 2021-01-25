@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-20.04
     
     env:
-      FROM_REPO: suttacentral/bilara-data
+      FROM_REPO: dayunbao/bilara-data
       FROM_REPO_BRANCH: published
-      TO_REPO: suttacentral/sc-data
+      TO_REPO: dayubao/sc-data
       TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       PYTHON_VERSION: 3.7.5
