@@ -19,8 +19,10 @@ jobs:
         
     steps:
       - name: Checkout ${{ env.FROM_REPO }} repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2 
         with:
+          persist-credentials: false
+          fetch-depth: 0
           repository: ${{ env.FROM_REPO }}
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ env.FROM_REPO_BRANCH }}
