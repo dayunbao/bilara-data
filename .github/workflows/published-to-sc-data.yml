@@ -59,8 +59,8 @@ jobs:
       - name: Push ${{ env.TO_REPO }}
         run: |
           cd to-repo
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name dayunbao
+          git config user.email dayunbao@gmail.com
           git add .
           git commit -m "From bilara published"
           git push
