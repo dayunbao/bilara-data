@@ -16,6 +16,7 @@ jobs:
       TO_REPO_BRANCH: master
       TO_REPO_TARGET_FOLDER: sc_bilara_data
       PYTHON_VERSION: 3.7.5
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     steps:
       - name: Checkout ${{ env.FROM_REPO }} repo
@@ -63,6 +64,7 @@ jobs:
           cd to-repo
           git config --global user.name "dayunbao"
           git config --global user.email "11196050+dayunbao@users.noreply.github.com"
+          git remote set-url --push origin https://dayunbao:$GITHUB_TOKEN@github.com/dayunbao/sc-data
           git add .
           git commit -m "From bilara published"
           git push
