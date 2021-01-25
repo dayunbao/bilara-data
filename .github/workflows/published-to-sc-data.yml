@@ -59,6 +59,8 @@ jobs:
       - name: Push ${{ env.TO_REPO }}
         run: |
           cd to-repo
+          echo config user.name
+          echo config user.email
           git config user.name dayunbao
           git config user.email 11196050+dayunbao@users.noreply.github.com
           git add .
