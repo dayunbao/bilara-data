@@ -63,8 +63,10 @@ jobs:
       - name: Push ${{ env.TO_REPO }}
         run: |
           cd to-repo
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
+          git config --global user.name dayunbao
+          git config --global user.email 11196050+dayunbao@users.noreply.github.com
           git add .
           git commit -m "From bilara published"
-          git push
+          git push https://dayunbao:$PAT@github.com/dayunbao/sc-data.git
+        env:
+          PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
