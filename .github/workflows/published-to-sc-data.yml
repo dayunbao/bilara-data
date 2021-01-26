@@ -22,6 +22,7 @@ jobs:
       - name: Checkout ${{ env.FROM_REPO }} repo
         uses: actions/checkout@v2 
         with:
+          fetch-depth: 0
           repository: ${{ env.FROM_REPO }}
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ env.FROM_REPO_BRANCH }}
@@ -30,6 +31,7 @@ jobs:
       - name: Checkout ${{ env.TO_REPO }} repo
         uses: actions/checkout@v2
         with:
+          fetch-depth: 0
           repository: ${{ env.TO_REPO }}
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ env.TO_REPO_BRANCH }}
