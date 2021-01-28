@@ -5,7 +5,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/thag",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/thag",
     "author_uid": "sujato-walton",
     "collaborator": [
       {
@@ -17,14 +17,19 @@
         "collaborator_uid": "walton",
         "author_name": "Jessica Walton",
         "author_github_handle": ""
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "thag",
     "translation_title": "Verses of the Senior Monks",
-    "translation_subtitle": "A translation of the Theragāthā",
-    "root_title": "Theragāthā",
-    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman.",
-    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
+    "translation_subtitle": "A translation of the Therag\u0101th\u0101",
+    "root_title": "Therag\u0101th\u0101",
+    "translation_process": "Translated from the Pali. Primary source was the Mah\u0101sa\u1e45g\u012bti edition, with reference to several English translations, especially those of K.R. Norman.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Therag\u0101th\u0101. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nik\u0101yas, was published in 2019.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -60,16 +65,16 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/dn",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/dn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "dn",
     "translation_title": "Long Discourses",
-    "translation_subtitle": "A translation of the Dīgha Nikāya",
-    "root_title": "Dīgha Nikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
-    "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
+    "translation_subtitle": "A translation of the D\u012bgha Nik\u0101ya",
+    "root_title": "D\u012bgha Nik\u0101ya",
+    "translation_process": "Primary source was the digital Mah\u0101sa\u1e45g\u012bti edition of the Pali Tipi\u1e6daka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_description": "This translation was part of a project to translate the four Pali Nik\u0101yas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016\u20132018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -94,16 +99,16 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/mn",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/mn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "mn",
     "translation_title": "Middle Discourses",
-    "translation_subtitle": "A translation of the Majjhima Nikāya",
-    "root_title": "Majjhima Nikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
-    "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
+    "translation_subtitle": "A translation of the Majjhima Nik\u0101ya",
+    "root_title": "Majjhima Nik\u0101ya",
+    "translation_process": "Primary source was the digital Mah\u0101sa\u1e45g\u012bti edition of the Pali Tipi\u1e6daka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_description": "This translation was part of a project to translate the four Pali Nik\u0101yas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016\u20132018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -140,16 +145,16 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/sn",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/sn",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "sn",
     "translation_title": "Linked Discourses",
-    "translation_subtitle": "A translation of the Saṁyutta Nikāya",
-    "root_title": "Saṁyutta Nikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
-    "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
+    "translation_subtitle": "A translation of the Sa\u1e41yutta Nik\u0101ya",
+    "root_title": "Sa\u1e41yutta Nik\u0101ya",
+    "translation_process": "Primary source was the digital Mah\u0101sa\u1e45g\u012bti edition of the Pali Tipi\u1e6daka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_description": "This translation was part of a project to translate the four Pali Nik\u0101yas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016\u20132018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -174,16 +179,16 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/an",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/an",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
-    "translation_subtitle": "A translation of the Aṅguttara Nikāya",
-    "root_title": "Aṅguttara Nikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
-    "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
+    "translation_subtitle": "A translation of the A\u1e45guttara Nik\u0101ya",
+    "root_title": "A\u1e45guttara Nik\u0101ya",
+    "translation_process": "Primary source was the digital Mah\u0101sa\u1e45g\u012bti edition of the Pali Tipi\u1e6daka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_description": "This translation was part of a project to translate the four Pali Nik\u0101yas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016\u20132018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -208,7 +213,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/thig",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/thig",
     "author_uid": "sujato-walton",
     "collaborator": [
       {
@@ -220,14 +225,19 @@
         "collaborator_uid": "walton",
         "author_name": "Jessica Walton",
         "author_github_handle": ""
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "thig",
     "translation_title": "Verses of the Senior Nuns",
-    "translation_subtitle": "A translation of the Therīgāthā",
-    "root_title": "Therīgāthā",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of K.R. Norman.",
-    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Therīgāthā. The initial draft was by Jessica Walton, and it was completed by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato’s translation of the four Nikāyas.",
+    "translation_subtitle": "A translation of the Ther\u012bg\u0101th\u0101",
+    "root_title": "Ther\u012bg\u0101th\u0101",
+    "translation_process": "Primary source was the digital Mah\u0101sa\u1e45g\u012bti edition of the Pali Tipi\u1e6daka. Translated from the Pali, with reference to several English translations, especially those of K.R. Norman.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Ther\u012bg\u0101th\u0101. The initial draft was by Jessica Walton, and it was completed by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato\u2019s translation of the four Nik\u0101yas.",
     "is_published": "true",
     "publication_status": "Completed, revision is ongoing.",
     "license": {
@@ -252,7 +262,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/dhp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/dhp",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
@@ -277,13 +287,13 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/brahmali/vinaya",
     "author_uid": "brahmali",
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
     "pitaka": "vinaya",
     "text_uid": "pli-tv-vi",
-    "text_title": "Theravāda Collection on Monastic Law",
+    "text_title": "Therav\u0101da Collection on Monastic Law",
     "is_published": "false",
     "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
     "license": {
@@ -305,28 +315,28 @@
   "scpub8.1": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.1",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb",
     "division": "bi-vi",
     "text_uid": "pli-tv-bi-vb"
   },
   "scpub8.2": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.2",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bu-vb",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bu-vb",
     "division": "bi-vi",
     "text_uid": "pli-tv-bu-vb"
   },
   "scpub8.3": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.3",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-kd",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-kd",
     "division": "bu-vi",
     "text_uid": "pli-tv-kd"
   },
   "scpub8.4": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.4",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-pvr",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-pvr",
     "division": "bu-vi",
     "text_uid": "pli-tv-pvr"
   },
@@ -339,11 +349,11 @@
     "text_uid": "mn",
     "translation_title": "Mittlere Lehrreden",
     "translation_subtitle": "",
-    "root_title": "Majjhima Nikāya",
+    "root_title": "Majjhima Nik\u0101ya",
     "translation_process": "",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_description": "Diese \u00dcbersetzung ist Teil eines Projekts, die vier Pali-Nik\u0101yas ins Deutsche zu \u00fcbersetzen. Die \u00dcbersetzung geht von Bhikkhu Sujatos englischer \u00dcbersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verst\u00e4ndliches Deutsch; einheitliche Terminologie; m\u00f6glichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos \u00dcbersetzung; kein Copyright. Das Projekt wurde in der zweiten H\u00e4lfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
-    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "publication_status": "Diese \u00dcbersetzung ist vorl\u00e4ufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -373,11 +383,11 @@
     "text_uid": "sn",
     "translation_title": "Verbundene Lehrreden",
     "translation_subtitle": "",
-    "root_title": "Saṁyutta Nikāya",
+    "root_title": "Sa\u1e41yutta Nik\u0101ya",
     "translation_process": "",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_description": "Diese \u00dcbersetzung ist Teil eines Projekts, die vier Pali-Nik\u0101yas ins Deutsche zu \u00fcbersetzen. Die \u00dcbersetzung geht von Bhikkhu Sujatos englischer \u00dcbersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verst\u00e4ndliches Deutsch; einheitliche Terminologie; m\u00f6glichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos \u00dcbersetzung; kein Copyright. Das Projekt wurde in der zweiten H\u00e4lfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
-    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "publication_status": "Diese \u00dcbersetzung ist vorl\u00e4ufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -409,9 +419,9 @@
     "translation_subtitle": "",
     "root_title": "",
     "translation_process": "",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_description": "Diese \u00dcbersetzung ist Teil eines Projekts, die vier Pali-Nik\u0101yas ins Deutsche zu \u00fcbersetzen. Die \u00dcbersetzung geht von Bhikkhu Sujatos englischer \u00dcbersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verst\u00e4ndliches Deutsch; einheitliche Terminologie; m\u00f6glichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos \u00dcbersetzung; kein Copyright. Das Projekt wurde in der zweiten H\u00e4lfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
-    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "publication_status": "Diese \u00dcbersetzung ist vorl\u00e4ufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -443,14 +453,14 @@
     "translation_subtitle": "",
     "root_title": "",
     "translation_process": "",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_description": "Diese \u00dcbersetzung ist Teil eines Projekts, die vier Pali-Nik\u0101yas ins Deutsche zu \u00fcbersetzen. Die \u00dcbersetzung geht von Bhikkhu Sujatos englischer \u00dcbersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verst\u00e4ndliches Deutsch; einheitliche Terminologie; m\u00f6glichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos \u00dcbersetzung; kein Copyright. Das Projekt wurde in der zweiten H\u00e4lfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": "true",
-    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "publication_status": "Diese \u00dcbersetzung ist vorl\u00e4ufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "Diese Übersetzung geht auf einen alten spirituellen Text zurück, der von der buddhistischen Tradition zum Wohl aller Lebewesen weitergegeben wurde. Sie ist dem Gemeingut gewidmet via Creative Commons Zero (CC0). Kopieren, Vervielfältigen, Adaptieren, Ändern oder anderweitiges Verwenden dieser Übersetzung sind ausdrücklich erlaubt. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Prinzipien der buddhistischen Gemeinschaft geschehen soll. Soweit das rechtlich möglich ist, hat Anagarika Sabbamitta auf alle Rechte durch das Copyright und verwandte oder benachbarte Rechte an den Langen Lehrreden verzichtet. Dieses Werk wurde veröffentlicht in: Deutschland."
+      "license_statement": "Diese \u00dcbersetzung geht auf einen alten spirituellen Text zur\u00fcck, der von der buddhistischen Tradition zum Wohl aller Lebewesen weitergegeben wurde. Sie ist dem Gemeingut gewidmet via Creative Commons Zero (CC0). Kopieren, Vervielf\u00e4ltigen, Adaptieren, \u00c4ndern oder anderweitiges Verwenden dieser \u00dcbersetzung sind ausdr\u00fccklich erlaubt. Die \u00dcbersetzerin bittet h\u00f6flich darum, dass jede Verwendung in \u00dcbereinstimmung mit den Werten und Prinzipien der buddhistischen Gemeinschaft geschehen soll. Soweit das rechtlich m\u00f6glich ist, hat Anagarika Sabbamitta auf alle Rechte durch das Copyright und verwandte oder benachbarte Rechte an den Langen Lehrreden verzichtet. Dieses Werk wurde ver\u00f6ffentlicht in: Deutschland."
     },
     "edition": [
       {
@@ -467,8 +477,8 @@
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "ru",
-    "translation_lang_name": "русский язык",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/ru/team/sutta/dn",
+    "translation_lang_name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/ru/team/sutta/dn",
     "author_uid": "team",
     "collaborator": [
       {
@@ -480,6 +490,11 @@
         "collaborator_uid": "dfowl",
         "author_name": "Danylo Rybchynskyi",
         "author_github_handle": "ViceroyFaust"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "dn",
@@ -502,8 +517,8 @@
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "jpn",
-    "translation_lang_name": "日本語",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/jpn/kaz/sutta/an",
+    "translation_lang_name": "\u65e5\u672c\u8a9e",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/jpn/kaz/sutta/an",
     "author_uid": "kaz",
     "author_name": "Kaz Takehara",
     "author_github_handle": "kaz-kaz",
@@ -527,8 +542,8 @@
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
-    "translation_lang_name": "Português",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/team/sutta/mn",
+    "translation_lang_name": "Portugu\u00eas",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/pt/team/sutta/mn",
     "author_uid": "team",
     "collaborator": [
       {
@@ -540,6 +555,11 @@
         "collaborator_uid": "marcoquaresma",
         "author_name": "Marco Quaresma",
         "author_github_handle": "marcoquaresma"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "mn",
@@ -563,7 +583,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/iti",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/iti",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
@@ -588,7 +608,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/snp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/snp",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
@@ -613,7 +633,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/ud",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/ud",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
@@ -638,7 +658,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/kp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/sutta/kn/kp",
     "author_uid": "sujato",
     "collaborator": [
       {
@@ -650,6 +670,11 @@
         "collaborator_uid": "ccronje",
         "author_name": "Carmi Cronje",
         "author_github_handle": "ccronje"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "kp",
@@ -673,7 +698,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/sa",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/patton/sutta/sa",
     "author_uid": "patton",
     "author_name": "Charles Patton",
     "author_github_handle": "winterdharma",
@@ -698,12 +723,17 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/blurb",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/blurb",
     "collaborator": [
       {
         "collaborator_uid": "sabbamitta",
         "author_name": "Anagarika Sabbamitta",
         "author_github_handle": "sabbamitta"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "blurb",
@@ -727,7 +757,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "pli",
     "translation_lang_name": "Pali",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/dpcv/pli-tv-kd",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/root/pli/dpcv/pli-tv-kd",
     "author_uid": "dpcv",
     "collaborator": [
       {
@@ -744,10 +774,15 @@
         "collaborator_uid": "sujato",
         "author_name": "Bhikkhu Sujato",
         "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "pli-tv-kd",
-    "translation_title": "Dutiya-Parakkamabābu Cullavagga",
+    "translation_title": "Dutiya-Parakkamab\u0101bu Cullavagga",
     "translation_subtitle": "",
     "root_title": "",
     "translation_process": "",
@@ -767,7 +802,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "pli",
     "translation_lang_name": "Pali",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/bj/pli-tv-kd",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/root/pli/bj/pli-tv-kd",
     "author_uid": "bj",
     "collaborator": [
       {
@@ -784,14 +819,19 @@
         "collaborator_uid": "sujato",
         "author_name": "Bhikkhu Sujato",
         "author_github_handle": "sujato"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "pli-tv-kd",
-    "translation_title": "Buddha Jayanti Tipiṭaka",
+    "translation_title": "Buddha Jayanti Tipi\u1e6daka",
     "translation_subtitle": "",
     "root_title": "",
     "translation_process": "",
-    "translation_description": "Buddha Jayanti Tipiṭaka of Sri Lanka.",
+    "translation_description": "Buddha Jayanti Tipi\u1e6daka of Sri Lanka.",
     "is_published": "false",
     "publication_status": "",
     "license": {
@@ -807,7 +847,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/comm-team/sutta/atthakatha/dn-a",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/comm-team/sutta/atthakatha/dn-a",
     "author_uid": "comm-team",
     "collaborator": [
       {
@@ -819,10 +859,15 @@
         "collaborator_uid": "ashinsarana",
         "author_name": "Ashin Sarana",
         "author_github_handle": "ashinsarana"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "dn-a",
-    "text_title": "Sumaṅgalavilāsinī",
+    "text_title": "Suma\u1e45galavil\u0101sin\u012b",
     "is_published": "false",
     "publication_status": "",
     "licence": "CC0",
@@ -841,8 +886,8 @@
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "cs",
-    "translation_lang_name": "Čeština",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/cs/ashinsarana/sutta/an",
+    "translation_lang_name": "\u010ce\u0161tina",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/cs/ashinsarana/sutta/an",
     "author_uid": "ashinsarana",
     "author_name": "Ashin Sarana",
     "author_github_handle": "ashinsarana",
@@ -866,8 +911,8 @@
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "my",
-    "translation_lang_name": " မြန်မာဘာသာ",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/my/my-team/sutta/dn",
+    "translation_lang_name": " \u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/my/my-team/sutta/dn",
     "author_uid": "my-team",
     "collaborator": [
       {
@@ -879,6 +924,11 @@
         "collaborator_uid": "ashinsarana",
         "author_name": "Ashin Sarana",
         "author_github_handle": "ashinsarana"
+      },
+      {
+        "collaborator_uid": "dayunbao",
+        "author_name": "dayunbao",
+        "author_github_handle": "dayunbao"
       }
     ],
     "text_uid": "dn",
@@ -902,7 +952,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thag",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thag",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -931,7 +981,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thig",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thig",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -960,7 +1010,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/dhp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/dhp",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -985,7 +1035,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/iti",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/iti",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1010,7 +1060,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/snp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/snp",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1035,7 +1085,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/ud",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/ud",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1060,7 +1110,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/kp",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/kp",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1083,12 +1133,35 @@
     "publication_number": "scpub34",
     "root_lang": "misc",
     "translation_lang": "en",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/name",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/sujato/name",
     "author_uid": "sujato",
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "name",
     "text_title": "Names",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "url": ""
+      }
+    ]
+  },
+  "scpub35": {
+    "publication_number": "scpub35",
+    "root_lang": "misc",
+    "translation_lang": "en",
+    "source_url": "https://github.com/dayunbao/bilara-data/tree/master/translation/en/dayunbao/test",
+    "author_uid": "dayunbao",
+    "author_name": "Andrew Clark",
+    "author_github_handle": "dayunbao",
+    "text_uid": "test",
+    "text_title": "",
     "is_published": "false",
     "publication_status": "",
     "licence": "CC0",
