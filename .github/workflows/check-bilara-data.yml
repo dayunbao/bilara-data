@@ -2,9 +2,8 @@ name: Check bilara data
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches:
+      - published
 
 jobs:
   run-checks:
