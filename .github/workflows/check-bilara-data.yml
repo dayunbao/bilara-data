@@ -13,7 +13,7 @@ jobs:
     - name: Checkout sc_renumber_segments
       uses: actions/checkout@v2
       with:
-        repository: suttacentral/sc-renumber-segments
+        repository: dayunbao/sc-renumber-segments
         path: sutta_processor
     - name: Set up Python 3.7
       uses: actions/setup-python@v2
